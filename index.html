@@ -18,7 +18,7 @@
         <link rel="stylesheet" type="text/css" href="css/pe-icon-7-stroke.min.css">
     
         <!-- Custom  Css -->
-        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.min.css" />
 
 </head>
 
@@ -205,6 +205,13 @@
                         </div>
                         <div class="tab-pane fade" id="komersil" role="tabpanel" aria-labelledby="interior-tab">
                             <div class="row mt-5 align-items-center">
+                                
+                                <div class="col-lg-6">
+                                    <div class="interior-services-img mt-4">
+                                        <img src="images/background/bg-9.jpg" class="img-fluid" alt="ama-contractor-interior-desain" loading="lazy">
+                                    </div>
+                                </div>
+
                                 <div class="col-lg-6">
                                     <div class="interior-services-info mt-4">
                                         <h3 class="text-uppercase f-32 letter-spacing_4">Bangunan Komersil</h3>
@@ -215,22 +222,10 @@
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-6">
-                                    <div class="interior-services-img mt-4">
-                                        <img src="images/background/bg-9.jpg" class="img-fluid" alt="ama-contractor-interior-desain" loading="lazy">
-                                    </div>
-                                </div>
-
                             </div>
                         </div>
                         <div class="tab-pane fade" id="infrastruktur" role="tabpanel" aria-labelledby="decoration-tab">
                             <div class="row mt-5 align-items-center">
-                                <div class="col-lg-6">
-                                    <div class="interior-services-img mt-4">
-                                        <img src="images/background/bg-10.jpg" class="img-fluid" alt="ama-contractor-infrastruktur-publik" loading="lazy">
-                                    </div>
-                                </div>
                                 <div class="col-lg-6">
                                     <div class="interior-services-info mt-4">
                                         <h3 class="text-uppercase f-32 letter-spacing_4">Infrastruktur Publik</h3>
@@ -239,6 +234,11 @@
                                         <div class="mt-4">
                                             <a href="https://api.whatsapp.com/send?phone=6281224506024&text=Halo%20saya%20ingin%20konsultasi%20tentang"  class="btn btn-md btn-custom">Konsultasi Sekarang</a>
                                         </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="interior-services-img mt-4">
+                                        <img src="images/background/bg-10.jpg" class="img-fluid" alt="ama-contractor-infrastruktur-publik" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -811,7 +811,7 @@
             <div class="row mt-2">
                 <div class="col-lg-12">
                     <div class="agency-footer-alt-content p-4">
-                        <p class="copy-right text-center mb-0">© <script>document.write(new Date().getFullYear())</script>  AMA Contractor.</p>
+                        <p class="copy-right text-center mb-0" id="copyright"></p>
                     </div>
                 </div>
             </div>
@@ -821,21 +821,28 @@
 
     <!-- JAVASCRIPTS -->
     <!--Custom js-->
-    <script src="js/counter.js"></script>
+    <script src="js/counter.min.js"></script>
 
     <!--shuffle-->
     <script src="js/shuffle.min.js"></script>
 
     <script src="js/tobii.min.js"></script>
 
-    <script src="js/tobii.js"></script>
+    <!-- <script src="js/tobii.js"></script> -->
 
-    <script src="js/app.js"></script>
+    <script src="js/app.min.js"></script>
 
-    <script src="js/portfolio.js"></script>
+    <script src="js/portfolio.min.js"></script>
 
     <!--Bootstrap Js-->
     <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        var date = new Date();
+        var year = date.getFullYear();
+
+        document.getElementById('copyright').innerHTML = ("© " + year + " AMA Contractor." );
+    </script>
 </body>
 
 </html>
