@@ -20,6 +20,7 @@ $purple:    #9894ff;
 $cyan:      #00e6e6;
 $blue:      #3083DC;
 $pink:      #f13e74;
+$brand:     #55a9d3;
 
 // stylelint-disable
 $gray-100:  #f8f9fa;
@@ -57,6 +58,7 @@ $colors: (
   "pink":     $pink,
   "light":    $light,
   "white":    $white,
+  "brand":    $brand,
 );
 
 $theme-colors: (
@@ -69,6 +71,7 @@ $theme-colors: (
   "dark":     $dark,
   "muted":    $muted,
   "white":    $white,
+  "brand":    $brand,
 );
 
 //box-shadow
