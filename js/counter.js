@@ -17,9 +17,9 @@ document.addEventListener("DOMContentLoaded", () => {
        }
       }, step);
     }
-    counter("count1", 0, 253, 3000);
-    counter("count2", 100, 252, 2500);
-    counter("count3", 0, 1252, 3000);
-    counter("count4", 0, 52, 3000);
+    counter("count1", 0, 23, 3000);
+    counter("count2", 100, 68, 2500);
+    counter("count3", 0, 124, 3000);
+    counter("count4", 0, 58, 3000);
    });
    
