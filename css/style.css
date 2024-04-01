@@ -465,7 +465,7 @@ button:focus {
   }
 }
 .agency-home {
-  background: url(../images/background/bg-1.jpg);
+  background: url(../images/background/bg-1.webp);
   background-size: cover;
   background-position: center center;
   height: 100vh;
@@ -554,7 +554,7 @@ button:focus {
 }
 /*------ BLOG-POST ------*/
 .blog-standard-home {
-  background: url(../images/background/bg-1.jpg);
+  background: url(../images/background/bg-1.webp);
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -672,7 +672,7 @@ button:focus {
 }
 /*------ CONSTRUCTION-HOME ------*/
 .construction-home {
-  background: url(../images/background/bg-4.jpg);
+  background: url(../images/background/bg-4.webp);
   background-size: cover;
   background-position: center center;
   height: 100vh;
@@ -1092,7 +1092,7 @@ button:focus {
 }
 
 .cta {
-  background: url(../images/background/bg-3.jpg);
+  background: url(../images/background/bg-3.webp);
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -1156,7 +1156,7 @@ button:focus {
 
 /*------ APP-DOWNLODE------*/
 .bg-app-downlode {
-  background: url(../images/background/bg-3.jpg);
+  background: url(../images/background/bg-3.webp);
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -1217,7 +1217,7 @@ button:focus {
 
 /*------ CONSTRUCTION-CTA ------*/
 .bg-construction-cta {
-  background: url(../images/background/bg-1.jpg);
+  background: url(../images/background/bg-1.webp);
   background-size: cover;
   background-position: center center;
   position: relative;
