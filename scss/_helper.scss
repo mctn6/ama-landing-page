@@ -27,12 +27,15 @@
 }
 
 .home-center {
-  display: table;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
-  height: 100%;
+  height: 100vh;
+
   .home-desc-center {
-    display: table-cell;
-    vertical-align: middle;
+    max-width: 80%; /* Adjust as needed */
+    text-align: center;
   }
 }
 
