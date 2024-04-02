@@ -208,31 +208,31 @@ try {
 
 // software slider
 
-var swiper = new Swiper(".homeslider", {
-  effect: 'coverflow',
-  loop: true,
-  centeredSlides: true,
-  slidesPerView: 2,
-  initialSlide: 3,
-  keyboardControl: true,
-  mousewheelControl: true,
-  lazyLoading: true,
-  preventClicks: false,
-  preventClicksPropagation: false,
-  lazyLoadingInPrevNext: true,
-  grabCursor: true,
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
-  },
-  coverflow: {
-    rotate: 0,
-    depth: 200,
-    modifier: 1,
-    slideShadows: false,
-    slidesPerView: 3,
-  }
-});
+// var swiper = new Swiper(".homeslider", {
+//   effect: 'coverflow',
+//   loop: true,
+//   centeredSlides: true,
+//   slidesPerView: 2,
+//   initialSlide: 3,
+//   keyboardControl: true,
+//   mousewheelControl: true,
+//   lazyLoading: true,
+//   preventClicks: false,
+//   preventClicksPropagation: false,
+//   lazyLoadingInPrevNext: true,
+//   grabCursor: true,
+//   navigation: {
+//     nextEl: ".swiper-button-next",
+//     prevEl: ".swiper-button-prev",
+//   },
+//   coverflow: {
+//     rotate: 0,
+//     depth: 200,
+//     modifier: 1,
+//     slideShadows: false,
+//     slidesPerView: 3,
+//   }
+// });
 
 // Collapse Menu 
 const navLinks = document.querySelectorAll('.nav-item');
