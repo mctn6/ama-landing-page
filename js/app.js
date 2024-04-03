@@ -235,7 +235,7 @@ try {
 // });
 
 // Collapse Menu 
-const navLinks = document.querySelectorAll('.nav-item');
+const navLinks = document.querySelectorAll('#navigation-item');
 const menuToggle = document.getElementById('navbarCollapse');
 let bsCollapse = '';
 window.addEventListener('load', function () {
