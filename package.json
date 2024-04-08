@@ -1,0 +1,22 @@
+{
+  "name": "astro-ama-landing-page",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build && node process-html.mjs",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "astro": "^4.5.16",
+    "astro-purgecss": "^4.1.0",
+    "globby": "^14.0.1",
+    "html-minifier": "^4.0.0",
+    "jsdom": "^24.0.0",
+    "purgecss": "^5.0.0",
+    "typescript": "^5.4.4"
+  }
+}

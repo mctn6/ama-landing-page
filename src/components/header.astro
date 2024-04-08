@@ -1,0 +1,40 @@
+---
+import { Image } from "astro:assets";
+---
+
+<header>
+    <!--Navbar Start-->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark" id="navbar">
+        <div class="container">
+            <!-- LOGO -->
+            <a class="navbar-brand logo" href="/">
+                <Image src="/images/logo.webp" class="logo-light" alt="logo-ama-contractor" loading="lazy" width="64" height="64" />
+                <Image src="/images/logo.webp" class="logo-dark" alt="logo-ama-contractor"  loading="lazy" width="64" height="64" />
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="pe-7s-menu"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav ms-auto navbar-center" id="mySidenav">
+                    <li class="nav-item" id="navigation-item">
+                        <a href="#home" class="nav-link active">Home</a>
+                    </li> 
+                    <li class="nav-item" id="navigation-item">
+                        <a href="#about" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item" id="navigation-item">
+                        <a href="#services" class="nav-link">Services</a>
+                    </li>
+                    <li class="nav-item" id="navigation-item">
+                        <a href="#work" class="nav-link">Work</a>
+                    </li>
+                    <li class="nav-item" id="navigation-item">
+                        <a href="#contact" class="nav-link me-0">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+</header>
