@@ -1,0 +1,27 @@
+---
+import { blogs } from "@/data.json";
+// component imports
+import ListPost from "@/components/list-post.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Blog">
+<!-- START STANDARD blog -->
+<section class="section blog-post">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <!-- START POST -->
+                {blogs
+                    .filter(blog => !blog.draft) // Filter out draft blogs
+                    .map((blog, index) => (
+                        <ListPost key={index} {...blog} />
+                ))}
+                <!-- END POST -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END STANDARD blog -->
+</BaseLayout>

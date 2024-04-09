@@ -3,5 +3,14 @@
       "title": "AMA Contractor | Jasa Kontraktor Arsitektur & Renovasi Rumah",
       "description": "Hubungi kami untuk layanan kontraktor untuk arsitektur, renovasi rumah, infrastruktur, dan desain interior ahli di Cianjur dan Jawa Barat.",
       "author": "AMA Contractor"
-    }
+    },
+    "blogs": [{
+      "title": "A Post about Important Items Of Life",
+      "image": "/images/blog/blog-1.jpg",
+      "date": "2022-11-20",
+      "draft": false,
+      "slug": "post-1",
+      "author": "AMA Contractor",
+      "description": "Have you ever wondered what the most important items of life are? Well, wonder no more!"
+    }]
 }

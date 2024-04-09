@@ -421,7 +421,7 @@ button:focus {
   box-shadow: 0px 3px 10px 0px rgba(50, 50, 50, 0.08);
 }
 .nav-sticky .navbar-brand .logo-dark {
-  display: inline-block;
+  display: inline-block !important;
 }
 .nav-sticky .navbar-brand .logo-light {
   display: none;
@@ -1943,7 +1943,7 @@ button:focus {
   letter-spacing: 1px;
 }
 .blog-post .blog-post-box .blog-standard-content .blog-post-title:hover {
-  color: #e9aa39;
+  color: #55a9d3;
   transition: all 0.5s;
 }
 .blog-post .blog-post-box .blog-standard-content .blog-post-author a {
@@ -2257,10 +2257,16 @@ textarea.form-control {
   width: 100%;
   display: inline-block;
   margin: 0px 0;
+  /* Media query for mobile devices */
 }
 .container .slider .logos .partnership-logo {
-  width: 20%;
   animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+}
+@media (max-width: 767px) {
+  .container .slider .logos .partnership-logo {
+    width: 64px; /* Adjusted width for mobile */
+    height: 64px; /* Adjusted height for mobile */
+  }
 }
 
 @keyframes slidein {

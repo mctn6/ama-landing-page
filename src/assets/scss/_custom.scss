@@ -24,9 +24,17 @@
         display: inline-block;
         margin: 0px 0;
         .partnership-logo {
-          width: calc(100% / 5);
+          // width: calc(100% / 5);
           animation: fade-in 0.5s 
             cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+        }
+
+        /* Media query for mobile devices */
+        @media (max-width: 767px) {
+          .partnership-logo {
+            width: 64px; /* Adjusted width for mobile */
+            height: 64px; /* Adjusted height for mobile */
+          }
         }
       }
     }

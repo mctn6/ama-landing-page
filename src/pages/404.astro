@@ -1,0 +1,15 @@
+---
+import { Image } from 'astro:assets';
+import error from '../images/error-404.png'
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="404 - Page Not Found">
+  <div class="d-flex align-items-center justify-content-center flex-column vh-100 bg-primary">
+    <h1 class="display-1 fw-bold text-white">404</h1>
+    <p class="text-2xl mb-10  text-white">
+      Maaf, kami tidak dapat menemukan halaman yang Anda cari.
+    </p>
+    <a href="/" class="inline-block bg-gray-100 text-gray-800 py-2 px-4 mb-6 hover:bg-indigo-500 hover:text-white transition-colors duration-300 ease-in-out">Go Back Home</a>
+</div>
+</BaseLayout>
