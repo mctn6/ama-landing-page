@@ -1186,7 +1186,7 @@ button:focus {
 
 /*------ BUSINESS COUNTER ------*/
 .business-bg-counter {
-  background: url(../images/blog/blog-2.jpg);
+  /* background: url(../images/blog/blog-2.jpg); */
   background-size: cover;
   background-position: center;
   position: relative;

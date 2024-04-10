@@ -1,3 +1,3 @@
 
 //tobii lightbox
-const tobii = new Tobii();
+const tobii = new tobii();
