@@ -1311,9 +1311,6 @@ button:focus {
 }
 
 /*------ CONSTRUCTION-SERVICES ------*/
-.construction-services .construction-services-img img {
-  height: 30px;
-}
 .construction-services .construction-services-content {
   overflow: hidden;
 }
