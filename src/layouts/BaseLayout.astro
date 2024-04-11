@@ -11,6 +11,9 @@ const { title = metadata.title } = Astro.props;
 interface Props {
   title?: string;
 }
+
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const url = canonicalUrl.href;
 ---
 
 <!doctype html>
@@ -20,6 +23,7 @@ interface Props {
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="canonical" href={url} />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={metadata.description} />
     <meta name="author" content={metadata.author} />\
