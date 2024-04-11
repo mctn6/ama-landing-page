@@ -5,7 +5,17 @@
       "author": "AMA Contractor",
       "googlesiteverification": "DKDTxnvWzY2oCfD7asQLqBRnWubxjPIrSzpoMJk5vIw"
     },
-    "blogs": [{
+    "blogs": [
+    {
+      "title": "Cara Memilih Cat Rumah yang Berkualitas",
+      "image": "/images/blog/cara-memilih-cat-rumah-yang-berkualitas.jpg",
+      "date": "2024-04-11",
+      "draft": false,
+      "slug": "cara-memilih-cat-rumah-yang-berkualitas",
+      "author": "AMA Contractor",
+      "description": "Cat merupakan salah satu elemen penting dalam mempercantik dan melindungi rumah Anda. Memilih cat yang tepat dapat memberikan dampak yang signifikan pada tampilan dan ketahanan rumah Anda."
+    },
+    {
       "title": "Tips Memilih Perusahaan Konstruksi yang Tepat",
       "image": "/images/blog/tips-memilih-perusahaan-kontruksi-yang-tepat.jpg",
       "date": "2024-04-10",
