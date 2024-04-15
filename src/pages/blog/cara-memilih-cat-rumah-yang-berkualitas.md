@@ -45,4 +45,4 @@ Belilah cat di toko yang terpercaya dan menjual produk asli. Hindari membeli cat
 
 > AMA Contractor siap membantu Anda! Kami menyediakan layanan pengecatan untuk berbagai kebutuhan, baik rumah hunian, sekolah, ataupun gedung perkantoran.
 
-Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6281224506024&text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!
+Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!
