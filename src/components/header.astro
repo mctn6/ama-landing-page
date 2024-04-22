@@ -5,7 +5,7 @@ let isBlogPage = false
 
 // Check if the current path contains '/blog' and add 'nav-sticky' class if true
 
-if (Astro.url.pathname.includes("/blog")) {
+if (Astro.url.pathname.includes("/blog") || Astro.url.pathname.includes("jasa-kami")) {
     isBlogPage = true;
 }
 

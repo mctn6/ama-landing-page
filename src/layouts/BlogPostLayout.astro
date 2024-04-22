@@ -80,7 +80,8 @@ const url = canonicalUrl.href;
                       <div class="post-standard-title">
                         <div class="post-img text-center mt-4">
                           <a href="#">
-                            <Image src={image.src} alt={image.alt} loading="lazy" width={800} height={480} class="img-fluid"/>
+                            {image &&   <Image src={image.src} alt={image.alt} loading="lazy" width={800} height={480} class="img-fluid"/>}
+                          
                           </a>
                         </div>
         
