@@ -1,8 +1,12 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
 title: Jasa Arsitek Amanah
-date: 2024-04-10
+date: 2024-04-22
 author: AMA Contractor
+image: {
+  src: "/images/service/jasa-arsitektur.webp",
+  alt: "Jasa Arsitek Cianjur AMA Contractor",
+}
 description: Membangun atau merenovasi rumah atau gedung merupakan sebuah investasi besar. Oleh karena itu, penting untuk memilih perusahaan konstruksi yang tepat agar hasil pekerjaan berkualitas dan sesuai dengan keinginan Anda.
 draft: false
 ---
