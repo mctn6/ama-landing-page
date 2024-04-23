@@ -7,11 +7,9 @@ image: {
   src: "/images/service/jasa-arsitektur.webp",
   alt: "Jasa Arsitek Cianjur AMA Contractor",
 }
-description: Membangun atau merenovasi rumah atau gedung merupakan sebuah investasi besar. Oleh karena itu, penting untuk memilih perusahaan konstruksi yang tepat agar hasil pekerjaan berkualitas dan sesuai dengan keinginan Anda.
+description: AMA Contractor hadir sebagai solusi bagi Anda yang mencari jasa arsitek terpercaya di Cianjur dan Jawa Barat. Kami memiliki tim arsitek profesional dan berpengalaman yang siap membantu Anda mewujudkan rumah impian sesuai dengan kebutuhan dan anggaran Anda.
 draft: false
 ---
-
-Wujudkan Impian Rumah Impian Anda Bersama Jasa Arsitek Amanah bersama AMA Contraktor.
 
 Membangun rumah idaman adalah dambaan setiap orang. Namun, mewujudkannya tidak selalu mudah. Diperlukan perencanaan yang matang, desain yang fungsional dan estetis, serta pelaksanaan yang cermat. Di sinilah peran jasa arsitek amanah menjadi penting.
 
