@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPostLayout.astro"
+layout: "../layouts/BlogPostLayout.astro"
 title: Jasa Interior Desain
 date: 2024-04-23
 image: {

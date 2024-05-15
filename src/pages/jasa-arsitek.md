@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPostLayout.astro"
+layout: "../layouts/BlogPostLayout.astro"
 title: Jasa Arsitek Amanah
 date: 2024-04-22
 author: AMA Contractor
