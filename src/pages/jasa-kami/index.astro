@@ -1,0 +1,26 @@
+---
+import { services } from "@/data.json";
+// component imports
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Jasa Kami">
+<!-- START STANDARD blog -->
+<section class="section container my-5">
+    <div class="row">
+        {services.map((service) => (
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <h2 class="f-22">{service.title}</h5>
+                  <p class="card-text">{service.description}</p>
+                  <a href={`jasa-kami/${service.slug}`}>Selengkapnya</a>
+                </div>
+              </div>
+            </div>
+          ))}
+    </div>
+  </section>
+  
+<!-- END STANDARD blog -->
+</BaseLayout>

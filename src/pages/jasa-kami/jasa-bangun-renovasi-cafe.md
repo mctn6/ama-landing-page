@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BlogPostLayout.astro"
+layout: "../../layouts/BlogPostLayout.astro"
 title: Jasa Bangun / Renovasi Cafe
 date: 2024-04-23
 author: AMA Contractor

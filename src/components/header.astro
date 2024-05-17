@@ -3,9 +3,9 @@ import { Image } from "astro:assets";
 
 let isBlogPage = false
 
-// Check if the current path contains '/blog' and add 'nav-sticky' class if true
+// IMPORTANT : Check if the current path contains '/blog' and add 'nav-sticky' and 'jasa' class if true
 
-if (Astro.url.pathname.includes("/blog") || Astro.url.pathname.includes("jasa-kami")) {
+if (Astro.url.pathname.includes("blog") || Astro.url.pathname.includes("jasa")) {
     isBlogPage = true;
 }
 

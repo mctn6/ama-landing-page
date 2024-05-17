@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BlogPostLayout.astro"
+layout: "../../layouts/BlogPostLayout.astro"
 title: Jasa Renovasi Sekolah
 date: 2024-04-23
 image: {
