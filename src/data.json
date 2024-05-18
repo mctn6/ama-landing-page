@@ -1,11 +1,11 @@
 {
-    "metadata": {
-      "title": "AMA | Jasa Kontraktor & Renovasi Rumah di Cianjur Jawa Barat",
-      "description": "Hubungi kami untuk layanan kontraktor untuk arsitektur, renovasi rumah, infrastruktur, pengaspalan, dan desain interior di Cianjur dan Jawa Barat.",
-      "author": "AMA Contractor",
-      "googlesiteverification": "DKDTxnvWzY2oCfD7asQLqBRnWubxjPIrSzpoMJk5vIw"
-    },
-    "services": [{
+  "metadata": {
+    "title": "AMA | Jasa Kontraktor & Renovasi Rumah di Cianjur Jawa Barat",
+    "description": "Hubungi kami untuk layanan kontraktor untuk arsitektur, renovasi rumah, infrastruktur, pengaspalan, dan desain interior di Cianjur dan Jawa Barat.",
+    "author": "AMA Contractor",
+    "googlesiteverification": "DKDTxnvWzY2oCfD7asQLqBRnWubxjPIrSzpoMJk5vIw"
+  },
+  "services": [{
       "title": "Jasa Arsitek",
       "description": "Kami memiliki tim arsitek profesional dan berpengalaman yang siap membantu Anda mewujudkan rumah impian sesuai dengan kebutuhan dan anggaran Anda.",
       "slug": "jasa-arsitek"
@@ -44,8 +44,17 @@
       "title": "Jasa Interior Desain ",
       "description": "Sebagai pemilik perumahan, Anda tentu ingin menarik minat calon pembeli dan meningkatkan nilai jual properti Anda.",
       "slug": "jasa-interior-desain"
-    }],
-    "blogs": [
+    }
+  ],
+  "blogs": [{
+      "title": "Panduan Lengkap Mengenai Renovasi Rumah",
+      "image": "/images/blog/panduan-lengkap-mengenai-renovasi-rumah.jpg",
+      "date": "2024-05-11",
+      "draft": false,
+      "slug": "panduan-lengkap-mengenai-renovasi-rumah",
+      "author": "AMA Contractor",
+      "description": "Cat merupakan salah satu elemen penting dalam mempercantik dan melindungi rumah Anda. Memilih cat yang tepat dapat memberikan dampak yang signifikan pada tampilan dan ketahanan rumah Anda."
+    },
     {
       "title": "Cara Memilih Cat Rumah yang Berkualitas",
       "image": "/images/blog/cara-memilih-cat-rumah-yang-berkualitas.jpg",
@@ -63,5 +72,6 @@
       "slug": "tips-memilih-perusahaan-kontruksi-yang-tepat",
       "author": "AMA Contractor",
       "description": "Membangun atau merenovasi rumah atau gedung merupakan sebuah investasi besar. Oleh karena itu, penting untuk memilih perusahaan konstruksi yang tepat agar hasil pekerjaan berkualitas dan sesuai dengan keinginan Anda. "
-    }]
+    }
+  ]
 }
