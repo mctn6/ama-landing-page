@@ -46,7 +46,17 @@
       "slug": "jasa-interior-desain"
     }
   ],
-  "blogs": [{
+  "blogs": [
+    {
+      "title": "Cara Mudah Mengaspal Jalan Biar Awet dan Nggak Cepat Rusak",
+      "image": "/images/blog/cara-mudah-mengaspal-jalan-biar-awet-dan-nggak-cepat-rusak.jpg",
+      "date": "2024-06-17",
+      "draft": false,
+      "slug": "cara-mudah-mengaspal-jalan-biar-awet-dan-nggak-cepat-rusak",
+      "author": "AMA Contractor",
+      "description": "Pengaspalan jalan merupakan salah satu aspek penting dalam pengembangan infrastruktur suatu desa. Jalan yang baik dan berkualitas tidak hanya memperlancar mobilitas, tetapi juga meningkatkan perekonomian dan kesejahteraan masyarakat."
+    },
+    {
       "title": "Panduan Lengkap Mengenai Renovasi Rumah",
       "image": "/images/blog/panduan-lengkap-mengenai-renovasi-rumah.jpg",
       "date": "2024-05-11",
