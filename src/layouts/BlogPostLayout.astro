@@ -15,6 +15,15 @@ const { title, date, author, image } = frontmatter;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 const url = canonicalUrl.href;
+
+function removeTrailingSlash(url) {
+    if (url.endsWith('/')) {
+        return url.slice(0, -1);
+    }
+    return url;
+}
+
+const newCanonicalUrl = removeTrailingSlash(url);
 ---
 
 <!doctype html>
@@ -24,7 +33,7 @@ const url = canonicalUrl.href;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <link rel="sitemap" href="/sitemap-index.xml" />
-    <link rel="canonical" href={url} />
+    <link rel="canonical" href={newCanonicalUrl} />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={metadata.description} />
     <meta name="author" content={metadata.author} />
