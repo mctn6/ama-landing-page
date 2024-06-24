@@ -40,4 +40,4 @@ Kami menyediakan layanan pembuatan MCK (Mandi, Cuci, Kakus) untuk desa-desa yang
 
 **Hubungi Kami Sekarang untuk Konsultasi Gratis!**
 
-Siap memberikan fasilitas sanitasi terbaik untuk desa Anda? Hubungi kami melalui [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121&text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis untuk konsultasi gratis dan dapatkan penawaran terbaik
+Siap memberikan fasilitas sanitasi terbaik untuk desa Anda? Hubungi kami melalui [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121&text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis untuk konsultasi gratis dan dapatkan penawaran terbaik.
