@@ -2,25 +2,38 @@
 import { services } from "@/data.json";
 // component imports
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
 ---
 
 <BaseLayout title="Jasa Kami">
-<!-- START STANDARD blog -->
-<section class="section container my-5">
+  <!-- START STANDARD blog -->
+  <section class="section container my-5">
     <div class="row">
-        {services.map((service) => (
-            <div class="col-lg-4 col-md-6 mb-4">
-              <div class="card h-100">
-                <div class="card-body">
-                  <h2 class="f-22">{service.title}</h5>
-                  <p class="card-text">{service.description}</p>
-                  <a href={`jasa-kami/${service.slug}`}>Selengkapnya</a>
-                </div>
+      {
+        services.map((service) => (
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <Image
+                  src={service.cover}
+                  alt={service.title}
+                  class="img-fluid"
+                  loading="lazy"
+                  width={400}
+                  height={240}
+                  style={{ objectFit: 'cover', height: '240px' }}
+                />
+              <div class="card-body">
+                
+                <h2 class="f-22 fw-bold">{service.title}</h2>
+                <p class="card-text">{service.description}</p>
+                <a href={`jasa-kami/${service.slug}`} class="fw-bold">Selengkapnya</a>
               </div>
             </div>
-          ))}
+          </div>
+        ))
+      }
     </div>
   </section>
-  
-<!-- END STANDARD blog -->
+
+  <!-- END STANDARD blog -->
 </BaseLayout>

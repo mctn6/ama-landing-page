@@ -3,6 +3,10 @@ layout: "../../layouts/BlogPostLayout.astro"
 title: Jasa Bangun / Renovasi Ruko
 date: 2024-04-23
 author: AMA Contractor
+image: {
+  src: "/images/service/jasa-bangun-ruko.jpg",
+  alt: "Jasa Bangun / Renovasi Ruko Cianjur Jawa Barat AMA Contractor",
+}
 description: Tim berpengalaman kami siap membantu Anda mewujudkan ruko impian, dari desain yang menarik hingga pengerjaan yang rapi dan berkualitas.
 draft: false
 ---

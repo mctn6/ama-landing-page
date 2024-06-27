@@ -8,52 +8,62 @@
   "services": [{
       "title": "Jasa Arsitek",
       "description": "Kami memiliki tim arsitek profesional dan berpengalaman yang siap membantu Anda mewujudkan rumah impian sesuai dengan kebutuhan dan anggaran Anda.",
-      "slug": "jasa-arsitek"
+      "slug": "jasa-arsitek",
+      "cover": "/images/service/jasa-arsitek-cover.jpg"
     },
     {
       "title": "Jasa Bangun / Renovasi Rumah",
       "description": "Bosan dengan rumah yang itu-itu saja? Ingin memiliki rumah yang sesuai dengan gaya hidup Anda? Percayakan pada Jasa Bangun / Renovasi Rumah kami!.",
-      "slug": "jasa-bangun-renovasi-rumah"
+      "slug": "jasa-bangun-renovasi-rumah",
+      "cover": "/images/service/jasa-bangun-rumah-cover.jpg"
     },
     {
       "title": "Jasa Pematangan Lahan",
       "description": "Pematangan lahan adalah proses penting yang dilakukan untuk mempersiapkan lahan agar siap digunakan untuk berbagai keperluan, seperti pembangunan, pertanian, atau industri.",
-      "slug": "jasa-pematangan-lahan"
+      "slug": "jasa-pematangan-lahan",
+      "cover": "/images/service/jasa-pematangan-lahan-cover.jpg"
     },
     {
       "title": "Jasa Bangun / Renovasi Kantor",
       "description": "Lingkungan kerja yang kondusif penting untuk meningkatkan produktivitas, semangat kerja, dan kolaborasi tim.",
-      "slug": "jasa-bangun-renovasi-kantor"
+      "slug": "jasa-bangun-renovasi-kantor",
+      "cover": "/images/service/jasa-kantor-cover.jpg"
     },
     {
       "title": "Jasa Bangun / Renovasi Cafe",
       "description": "Banyak hambatan dan rintangan yang harus Anda hadapi, mulai dari keterbatasan modal, desain yang tidak sesuai dengan keinginan, hingga kesulitan mencari kontraktor yang terpercaya.",
-      "slug": "jasa-bangun-renovasi-cafe"
+      "slug": "jasa-bangun-renovasi-cafe",
+      "cover": "/images/service/jasa-bangun-cafe-cover.jpg"
     },
     {
       "title": "Jasa Bangun / Renovasi Ruko",
       "description": "Ingin memiliki ruko yang modern, fungsional, dan bernilai investasi tinggi? Percayakan pada Jasa Bangun/Renovasi Ruko Profesional kami",
-      "slug": "jasa-bangun-renovasi-ruko"
+      "slug": "jasa-bangun-renovasi-ruko",
+      "cover": "/images/service/jasa-bangun-ruko.jpg"
     },
     {
       "title": "Jasa Pengaspalan Jalan",
       "description": "Jalanan yang rusak dan berlubang bukan hanya mengganggu kenyamanan warga, tapi juga menghambat akses dan menghambat kemajuan ekonomi daerah Anda.",
-      "slug": "jasa-pengaspalan-jalan"
+      "slug": "jasa-pengaspalan-jalan",
+      "cover": "/images/service/jasa-pengaspalan-jalan-cover.jpg"
     },
     {
       "title": "Jasa Renovasi Sekolah ",
       "description": "Memiliki sekolah yang nyaman dan modern merupakan dambaan semua pihak, baik siswa, guru, maupun orang tua.",
-      "slug": "jasa-renovasi-sekolah"
+      "slug": "jasa-renovasi-sekolah",
+      "cover": "/images/service/jasa-bangun-sekolah-cover.jpg"
     },
     {
       "title": "Jasa Interior Desain ",
       "description": "Sebagai pemilik perumahan, Anda tentu ingin menarik minat calon pembeli dan meningkatkan nilai jual properti Anda.",
-      "slug": "jasa-interior-desain"
+      "slug": "jasa-interior-desain",
+      "cover": "/images/service/jasa-interior-design-cover.jpg"
     },
     {
       "title": "Jasa Pembuatan MCK ",
       "description": "Kami menyediakan layanan pembuatan MCK (Mandi, Cuci, Kakus) untuk desa-desa yang membutuhkan fasilitas sanitasi yang layak.",
-      "slug": "jasa-pembuatan-mck"
+      "slug": "jasa-pembuatan-mck",
+      "cover": "/images/service/jasa-pembuatan-mck.jpg"
     }
   ],
   "blogs": [
