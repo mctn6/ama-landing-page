@@ -76,6 +76,6 @@ Pantau kemajuan renovasi rumah Anda secara berkala dan pastikan semuanya berjala
 
 Renovasi rumah dapat menjadi proses yang kompleks dan memakan waktu. Namun, dengan perencanaan dan persiapan yang matang, Anda dapat mewujudkan rumah impian Anda.
 
-> AMA Contractor siap membantu Anda! Kami menyediakan jasa renovasi rumah.
+> AMA Contractor siap membantu Anda! Kami menyediakan [jasa renovasi rumah](/jasa-kami/jasa-bangun-renovasi-rumah).
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!

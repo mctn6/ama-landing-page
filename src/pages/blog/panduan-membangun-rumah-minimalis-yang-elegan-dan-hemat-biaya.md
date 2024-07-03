@@ -76,6 +76,6 @@ Membangun rumah minimalis bukan hanya tentang menciptakan hunian yang indah, tet
 
 Selamat merencanakan dan membangun rumah minimalis Anda!
 
-> AMA Contractor siap membantu Anda! Kami menyediakan jasa pembangunan rumah.
+> AMA Contractor siap membantu Anda! Kami menyediakan [jasa pembangunan rumah](/jasa-kami/jasa-bangun-renovasi-rumah).
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!
