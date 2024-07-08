@@ -68,7 +68,16 @@
   ],
   "blogs": [
     {
-      "title": " Ide Renovasi Masjid Memperindah dan Meningkatkan Kenyamanan Tempat Ibadah",
+      "title": "5 Konsep Desain Cafe yang Bikin Betah",
+      "image": "/images/blog/5-konsep-desain-cafe-yang-bikin-betah.jpg",
+      "date": "2024-07-08",
+      "draft": false,
+      "slug": "5-konsep-desain-cafe-yang-bikin-betah",
+      "author": "AMA Contractor",
+      "description": "Desain interior kafe memainkan peran besar dalam menciptakan suasana yang nyaman dan menarik bagi pengunjung."
+    },
+    {
+      "title": "Ide Renovasi Masjid Memperindah dan Meningkatkan Kenyamanan Tempat Ibadah",
       "image": "/images/blog/ide-renovasi-masjid-memperindah-dan-meningkatkan-kenyamanan-tempat-ibadah.jpg",
       "date": "2024-07-03",
       "draft": false,
