@@ -68,6 +68,15 @@
   ],
   "blogs": [
     {
+      "title": "Cek Fakta Atau Mitos Tentang Konstruksi",
+      "image": "/images/blog/cek-fakta-atau-mitos-tentang-konstruksi.jpg",
+      "date": "2024-07-26",
+      "draft": false,
+      "slug": "cek-fakta-atau-mitos-tentang-konstruksi",
+      "author": "AMA Contractor",
+      "description": "Dalam dunia konstruksi, banyak mitos yang beredar yang bisa membingungkan klien dan profesional."
+    },
+    {
       "title": "Ubah Rumahmu Menjadi Surga Tropis yang Nyaman dan Menakjubkan",
       "image": "/images/blog/ubah-rumahmu-menjadi-surga-tropis-yang-nyaman-dan-menakjubkan.jpg",
       "date": "2024-07-25",

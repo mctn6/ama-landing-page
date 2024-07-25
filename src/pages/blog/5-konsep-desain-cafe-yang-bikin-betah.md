@@ -48,6 +48,8 @@ Bohemian chic adalah pilihan yang tepat untuk kafe yang ingin menonjolkan karakt
 
 Dengan memilih dan menerapkan konsep desain yang tepat, Anda dapat menciptakan kafe yang tidak hanya menarik dari segi visual, tetapi juga memberikan pengalaman yang menyenangkan dan berkesan bagi para pengunjung. Ingatlah bahwa suasana yang baik adalah salah satu kunci sukses dalam bisnis kafe.
 
-> AMA Contractor siap membantu Anda! Kami menyediakan jasa pembangunan dan renovasi kafe.
+**Butuh bantuan dalam layanan pembukaan lahan berbagai kebutuhan Anda?**
+
+> AMA Contractor siap membantu Anda! Kami menyediakan [jasa pembangunan dan renovasi kafe](/jasa-kami/jasa-bangun-renovasi-cafe) 
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!

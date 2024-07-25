@@ -47,6 +47,9 @@ Dalam upaya menjaga kelestarian lingkungan, beberapa teknik land clearing ramah 
 
 Dengan memahami proses, manfaat, dan teknik land clearing yang efektif serta ramah lingkungan, kita dapat mempersiapkan lahan dengan lebih baik untuk berbagai keperluan tanpa merusak ekosistem.
 
-> AMA Contractor siap membantu Anda! Kami menyediakan layanan pembukaan lahan.
+
+**Butuh bantuan dalam layanan pembukaan lahan berbagai kebutuhan Anda?**
+
+> AMA Contractor siap membantu Anda! Kami menyediakan [layanan pembukaan lahan](/jasa-kami/jasa-pematangan-lahan) 
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!

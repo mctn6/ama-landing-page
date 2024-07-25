@@ -95,6 +95,8 @@ Selain renovasi fisik, mengadakan kegiatan sosial dan keagamaan yang beragam jug
 
 Renovasi masjid adalah investasi penting untuk meningkatkan kenyamanan dan keindahan tempat ibadah. Dengan ide-ide di atas, diharapkan masjid bisa menjadi tempat yang lebih ramah, nyaman, dan menarik bagi jamaah. Semoga ide-ide renovasi ini bisa memberikan inspirasi bagi Anda yang ingin melakukan renovasi masjid di lingkungan Anda.
 
-> AMA Contractor siap membantu Anda! Kami menyediakan layanan pembangunan masjid.
+**Butuh bantuan dalam memilih layanan pembangunan masjid?**
+
+> AMA Contractor siap membantu Anda! Kami menyediakan [layanan pembangunan masjid](/jasa-kami/jasa-arsitek).
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!

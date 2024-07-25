@@ -69,6 +69,8 @@ Renovasi kamar mandi bisa memakan waktu, jadi rencanakan waktu pengerjaan dengan
 
 Renovasi kamar mandi membutuhkan perencanaan yang matang, pemilihan material yang tepat, dan perhatian pada detail. Dengan mengikuti tips di atas, kamu bisa mencapai hasil yang memuaskan dan memiliki kamar mandi yang tidak hanya indah tapi juga fungsional dan tahan lama. Selamat merenovasi!
 
-> AMA Contractor siap membantu Anda! Kami menyediakan layanan renovasi kamar mandi
+**Butuh bantuan dalam memilih layanan renovasi kamar mandi?**
+
+> AMA Contractor siap membantu Anda! Kami menyediakan [layanan renovasi kamar mandi](/jasa-kami/jasa-bangun-renovasi-rumah).
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!

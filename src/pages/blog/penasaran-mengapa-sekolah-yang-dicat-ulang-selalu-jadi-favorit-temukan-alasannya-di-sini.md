@@ -95,6 +95,8 @@ Menggunakan bahan cat ramah lingkungan adalah langkah penting untuk menjaga kese
 
 Dengan memahami dan menerapkan poin-poin di atas, sekolah tidak hanya akan terlihat lebih indah, tetapi juga menjadi tempat belajar yang lebih sehat dan nyaman bagi siswa dan guru. Pengecatan ulang dengan pilihan warna yang tepat dan bahan yang ramah lingkungan adalah investasi jangka panjang yang akan memberikan manfaat besar bagi semua pihak yang terlibat.
 
+**Butuh bantuan dalam memilih layanan renovasi sekolah?**
+
 > AMA Contractor siap membantu Anda! Kami menyediakan [jasa renovasi sekolah](/jasa-kami/jasa-renovasi-sekolah).
 
 Hubungi kami di [WhatsApp](https://api.whatsapp.com/send?phone=6285780007121text=Halo%20saya%20ingin%20konsultasi%20tentang) untuk konsultasi gratis!
