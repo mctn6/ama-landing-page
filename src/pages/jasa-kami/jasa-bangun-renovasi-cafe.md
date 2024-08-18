@@ -1,11 +1,11 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: Jasa Bangun / Renovasi Cafe
+title: Jasa Kontraktor Cafe
 date: 2024-04-23
 author: AMA Contractor
 image: {
   src: "/images/service/jasa-bangun-cafe.webp",
-  alt: "Jasa Bangun / Renovasi Cafe Cianjur AMA Contractor",
+  alt: "Jasa Kontraktor Cafe Cianjur AMA Contractor",
 }
 description: Banyak hambatan dan rintangan yang harus Anda hadapi, mulai dari keterbatasan modal, desain yang tidak sesuai dengan keinginan, hingga kesulitan mencari kontraktor yang terpercaya.
 draft: false

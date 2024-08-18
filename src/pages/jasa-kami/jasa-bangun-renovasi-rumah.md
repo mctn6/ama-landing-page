@@ -1,11 +1,11 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: Jasa Bangun / Renovasi Rumah
+title: Jasa Kontraktor Rumah
 date: 2024-04-23
 author: AMA Contractor
 image: {
   src: "/images/service/jasa-bangun-rumah.webp",
-  alt: "Jasa Bangun / Renovasi Rumah Cianjur AMA Contractor",
+  alt: "Jasa Kontraktor Rumah Cianjur AMA Contractor",
 }
 description: Tim profesional kami siap membantu Anda mewujudkan rumah impian, mulai dari desain yang menarik hingga pengerjaan yang rapi dan berkualitas.
 draft: false
@@ -14,7 +14,7 @@ draft: false
 **Bosan dengan rumah yang itu-itu saja?**
 **Ingin memiliki rumah yang sesuai dengan gaya hidup Anda?**
 
-**Percayakan pada Jasa Bangun / Renovasi Rumah kami!**
+**Percayakan pada Kontraktor Rumah kami!**
 
 Tim profesional kami siap membantu Anda mewujudkan rumah impian, mulai dari desain yang menarik hingga pengerjaan yang rapi dan berkualitas.
 

@@ -1,11 +1,11 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: Jasa Bangun / Renovasi Kantor
+title: Jasa Kontraktor Kantor
 date: 2024-04-23
 author: AMA Contractor
 image: {
   src: "/images/service/jasa-kantor-cover.jpg",
-  alt: "Jasa Bangun / Renovasi Kantor Cianjur Jawa Barat AMA Contractor",
+  alt: "Jasa Kontraktor Kantor Cianjur Jawa Barat AMA Contractor",
 }
 description: Membangun atau merenovasi rumah atau gedung merupakan sebuah investasi besar. Oleh karena itu, penting untuk memilih perusahaan konstruksi yang tepat agar hasil pekerjaan berkualitas dan sesuai dengan keinginan Anda.
 draft: false
